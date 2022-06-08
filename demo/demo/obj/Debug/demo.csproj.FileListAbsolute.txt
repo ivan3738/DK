@@ -1,0 +1,12 @@
+D:\123\demo\demo\obj\Debug\demo.csproj.AssemblyReference.cache
+D:\123\demo\demo\obj\Debug\demo.csproj.SuggestedBindingRedirects.cache
+D:\123\demo\demo\obj\Debug\demo.Form1.resources
+D:\123\demo\demo\obj\Debug\demo.Properties.Resources.resources
+D:\123\demo\demo\obj\Debug\demo.csproj.GenerateResource.cache
+D:\123\demo\demo\obj\Debug\demo.csproj.CoreCompileInputs.cache
+D:\123\demo\demo\bin\Debug\demo.exe.config
+D:\123\demo\demo\bin\Debug\demo.exe
+D:\123\demo\demo\bin\Debug\demo.pdb
+D:\123\demo\demo\obj\Debug\demo.exe
+D:\123\demo\demo\obj\Debug\demo.pdb
+D:\123\demo\demo\obj\Debug\demo.Form2.resources
